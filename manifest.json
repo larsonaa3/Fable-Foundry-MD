@@ -1,0 +1,11 @@
+{
+    "id": "character-manager",
+    "name": "Character Manager",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Create and manage character profiles with customizable templates",
+    "author": "Your Name",
+    "authorUrl": "https://your-website.com",
+    "fundingUrl": "https://your-funding-url.com",
+    "isDesktopOnly": false
+}
