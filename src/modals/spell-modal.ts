@@ -1,5 +1,5 @@
 import { App, Modal, DropdownComponent } from 'obsidian';
-import CharacterManagerPlugin from '../main';
+import CharacterManagerPlugin from '../../main';
 import { DND_DATA } from '../dnd-data';
 
 interface SpellData {

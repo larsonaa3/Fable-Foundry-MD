@@ -1,5 +1,5 @@
 import { App, Modal, DropdownComponent, TextComponent, Notice } from 'obsidian';
-import CharacterManagerPlugin from '../main';
+import CharacterManagerPlugin from '../../main';
 import { DND_DATA, Character } from '../dnd-data';
 
 export class LevelUpModal extends Modal {

@@ -1,5 +1,5 @@
 import { App, Modal } from 'obsidian';
-import CharacterManagerPlugin from '../main';
+import CharacterManagerPlugin from '../../main';
 import { CreateDnDCharacterModal } from './character-creation-modal';
 import { CreateCharacterModal } from './basic-character-modal';
 import { EquipmentModal } from './equipment-modal';

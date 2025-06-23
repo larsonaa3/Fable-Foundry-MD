@@ -1,5 +1,5 @@
 import { App, Modal, TextComponent, Notice } from 'obsidian';
-import CharacterManagerPlugin from '../main';
+import CharacterManagerPlugin from '../../main';
 
 export class CreateCharacterModal extends Modal {
     plugin: CharacterManagerPlugin;

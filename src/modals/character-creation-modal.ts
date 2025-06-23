@@ -1,6 +1,6 @@
 import { App, Modal, TextComponent, TextAreaComponent, DropdownComponent, Notice } from 'obsidian';
 import { DND_DATA, DnDCharacterData } from '../dnd-data';
-import CharacterManagerPlugin from '../main';
+import CharacterManagerPlugin from '../../main';
 
 export class CreateDnDCharacterModal extends Modal {
     plugin: CharacterManagerPlugin;
